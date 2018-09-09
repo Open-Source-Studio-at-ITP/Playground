@@ -2,7 +2,7 @@
 
 (Should we use a template or write one from scratch?)
 
-The Recurse Center includes this their code of conduct - I think it should also be included in ours:
+The Recurse Center includes this their social rules - I think it should also be included in ours:
 
 The social rules are:
 No well-actually’s

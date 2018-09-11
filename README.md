@@ -24,7 +24,7 @@ Wow! | Much | Organise
 Tables | are | fun
 :sparkles: | :rocket: | :metal:
 
-As spiderman's uncle said:
+As Spiderman's uncle said:
 > With great power comes great responsibility
 
 ### Even moar markdown

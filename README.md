@@ -4,6 +4,15 @@
 
 Repository for students to experiment with in [ITP's Open Source Studio Class](https://github.com/shiffman/Open-Source-Studio-ITP).
 
+## Contribute
+Read [this file](https://github.com/shiffman/Open-Source-Studio-Playground/blob/master/CONTRIBUTING.md) to know the guidelines for contributing to this project.
+
+## Code of Conduct
+Contributors to this project must follow [this Code of Conduct](https://github.com/shiffman/Open-Source-Studio-Playground/blob/master/CODE_OF_CONDUCT.md).
+
+## License
+[MIT License](https://github.com/shiffman/Open-Source-Studio-Playground/blob/master/LICENSE).
+
 ## Stuff about markdown
 
 I am demonstrating markdown.

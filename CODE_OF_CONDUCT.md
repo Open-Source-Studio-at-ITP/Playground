@@ -12,11 +12,11 @@ If we were to write our own, below is a potential structure (based on the [Contr
 
 ## Our Standards
 
-There is a good reference for establish our standards and expected behavior in group: [Citizen Code of Conduct](http://citizencodeofconduct.org/)
+This is a good reference for establish standards and expected behavior in group: [Citizen Code of Conduct](http://citizencodeofconduct.org/)
 
 ## Our Responsibilities
 
-Django Code of Conduct is a great example of cultivating diversity within the community regards of experience and skill level. [Django Code of Conduct](https://www.djangoproject.com/conduct/)
+Django Code of Conduct is a great example of cultivating diversity within the community regardless of experience and skill level. [Django Code of Conduct](https://www.djangoproject.com/conduct/)
 
 ## Scope
 

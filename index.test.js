@@ -1,5 +1,5 @@
-const expect = require('chai').expect;
-const fs = require('fs');
+var expect = require('chai').expect;
+var fs = require('fs');
 
 describe('playground-test', function () {
     it('should work', function () {

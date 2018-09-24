@@ -1,0 +1,28 @@
+{
+  "name": "oss-playground",
+  "version": "0.0.1",
+  "description": "Playground for ITP's Open Source Studio course",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Open-Source-Studio-at-ITP/Playground.git"
+  },
+  "keywords": [
+    "education",
+    "open",
+    "source"
+  ],
+  "author": "Daniel Shiffman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Open-Source-Studio-at-ITP/Playground/issues"
+  },
+  "homepage": "https://github.com/Open-Source-Studio-at-ITP/Playground#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}

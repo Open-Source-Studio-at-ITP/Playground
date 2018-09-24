@@ -4,7 +4,7 @@
   "description": "Playground for ITP's Open Source Studio course",
   "main": "index.js",
   "scripts": {
-    "test": "mocha index.test.js -w"
+    "test": "mocha index.test.js"
   },
   "repository": {
     "type": "git",
